@@ -39,7 +39,7 @@ Comparison
 
 
 ### Module 5: Dashboard Creation
-Dashboards
+Dashboard
 
 
 ### Module 6: Presentation of Findings
