@@ -12,35 +12,35 @@ You will begin by scraping internet web sites and accessing APIs to collect data
 ## Modules
 
 ### Module 1: Data Collection
-Collecting Data Using APIs
-Collecting Data Using Webscraping
-Exploring Data
+- Collecting Data Using APIs
+- Collecting Data Using Webscraping
+- Exploring Data
 
 
 ### Module 2: Data Wrangling
-Finding Missing Values
-Determine Missing Values
-Finding Duplicates
-Removing Duplicates
-Normalizing Data
+- Finding Missing Values
+- Determine Missing Values
+- Finding Duplicates
+- Removing Duplicates
+- Normalizing Data
 
 
 ### Module 3: Exploratory Data Analysis
-Distribution
-Outliers
-Correlation
+- Distribution
+- Outliers
+- Correlation
 
 
 ### Module 4: Data Visualization
-Visualizing Distribution of Data
-Relationship
-Composition
-Comparison
+- Visualizing Distribution of Data
+- Relationship
+- Composition
+- Comparison
 
 
 ### Module 5: Dashboard Creation
-Dashboard
+- Dashboard
 
 
 ### Module 6: Presentation of Findings
-Final Presentation
+- Final Presentation
