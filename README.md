@@ -2,7 +2,7 @@
 
 ## Capstone Project Objective
 
-I'll start by gathering data in a variety of formats, such as.csv files, excel sheets, and databases, by scraping websites on the internet and gaining access to APIs.Once this is done, I will use data wrangling techniques to prepare the data for analysis.When the data is ready, I should use statistical analysis to examine the data.Then, use IBM Cognos Analytics to build my dashboard and combine all of my data.Finally, share my findings in a presentation to showcase my narrative abilities. Both the final project presentation and the quizzes in each module will be used to grade me. 
+In this work, I gathered data in a variety of formats, such as csv files, excel sheets, and databases, by scraping websites on the internet and gaining access to APIs. Once this was done, I used the data wrangling techniques to prepare the data for analysis. When the data was ready, I used statistical analysis to examine the data. Then, I used IBM Cognos Analytics to build my dashboard and combine all of my data. Finally, I shared my findings in a presentation to showcase my narrative abilities.
 
 
 ## Modules
